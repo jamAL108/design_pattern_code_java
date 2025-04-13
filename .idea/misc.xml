@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/Stradegy_pattern/pom.xml" />
         <option value="$PROJECT_DIR$/Momento/pom.xml" />
         <option value="$PROJECT_DIR$/Observer/pom.xml" />
+        <option value="$PROJECT_DIR$/composite/pom.xml" />
+        <option value="$PROJECT_DIR$/State/pom.xml" />
       </list>
     </option>
   </component>
